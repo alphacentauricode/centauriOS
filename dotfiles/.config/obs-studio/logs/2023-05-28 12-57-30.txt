@@ -1,0 +1,283 @@
+12:57:30.184: Using EGL/X11
+12:57:30.184: CPU Name: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
+12:57:30.184: CPU Speed: 2991.441MHz
+12:57:30.185: Physical Cores: 2, Logical Cores: 4
+12:57:30.185: Physical Memory: 5820MB Total, 1564MB Free
+12:57:30.185: Kernel Version: Linux 6.1.29_1
+12:57:30.185: Distribution: "Void" Unknown
+12:57:30.185: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+12:57:30.185: Qt Version: 6.5.0 (runtime), 6.5.0 (compiled)
+12:57:30.185: Portable mode: false
+12:57:30.238: OBS 29.1.1 (linux)
+12:57:30.239: ---------------------------------
+12:57:30.239: ---------------------------------
+12:57:30.239: audio settings reset:
+12:57:30.239: 	samples per sec: 48000
+12:57:30.239: 	speakers:        2
+12:57:30.239: 	max buffering:   960 milliseconds
+12:57:30.239: 	buffering type:  dynamically increasing
+12:57:30.246: ---------------------------------
+12:57:30.246: Initializing OpenGL...
+12:57:30.311: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 3000 (SNB GT2)
+12:57:30.311: OpenGL loaded successfully, version 3.3 (Core Profile) Mesa 22.3.5, shading language 3.30
+12:57:30.360: ---------------------------------
+12:57:30.360: video settings reset:
+12:57:30.360: 	base resolution:   1600x900
+12:57:30.360: 	output resolution: 852x480
+12:57:30.360: 	downscale filter:  Bicubic
+12:57:30.360: 	fps:               30/1
+12:57:30.360: 	format:            NV12
+12:57:30.360: 	YUV mode:          Rec. 709/Partial
+12:57:30.360: NV12 texture support not available
+12:57:30.360: P010 texture support not available
+12:57:30.367: Audio monitoring device:
+12:57:30.367: 	name: Default
+12:57:30.367: 	id: default
+12:57:30.367: ---------------------------------
+12:57:30.374: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:57:30.382: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+12:57:30.389: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:57:30.389: Failed to initialize module 'decklink.so'
+12:57:30.609: [pipewire] No captures available
+12:57:30.630: v4l2loopback not installed, virtual camera disabled
+12:57:30.662: VAAPI: API version 1.17
+12:57:30.663: FFmpeg VAAPI H264 encoding supported
+12:57:30.664: FFmpeg VAAPI HEVC encoding not supported
+12:57:30.729: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+12:57:30.729: 
+12:57:30.729: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+12:57:30.729: ---------------------------------
+12:57:30.729:   Loaded Modules:
+12:57:30.729:     vlc-video.so
+12:57:30.729:     text-freetype2.so
+12:57:30.729:     rtmp-services.so
+12:57:30.729:     obs-x264.so
+12:57:30.729:     obs-transitions.so
+12:57:30.729:     obs-outputs.so
+12:57:30.729:     obs-filters.so
+12:57:30.729:     obs-ffmpeg.so
+12:57:30.729:     linux-v4l2.so
+12:57:30.729:     linux-pulseaudio.so
+12:57:30.729:     linux-pipewire.so
+12:57:30.729:     linux-jack.so
+12:57:30.729:     linux-capture.so
+12:57:30.729:     linux-alsa.so
+12:57:30.729:     image-source.so
+12:57:30.729:     frontend-tools.so
+12:57:30.729:     decklink-output-ui.so
+12:57:30.729:     decklink-captions.so
+12:57:30.730: ---------------------------------
+12:57:30.730: ==== Startup complete ===============================================
+12:57:30.773: All scene data cleared
+12:57:30.773: ------------------------------------------------
+12:57:30.777: pulse-input: Server name: 'pulseaudio 15.0'
+12:57:30.778: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12:57:30.778: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+12:57:30.778: [Loaded global audio device]: 'Desktop Audio'
+12:57:30.779: pulse-input: Server name: 'pulseaudio 15.0'
+12:57:30.779: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12:57:30.779: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo' (default)
+12:57:30.779: [Loaded global audio device]: 'Mic/Aux'
+12:57:30.780: xshm-input: Geometry 1600x900 @ 0,0
+12:57:30.785: Switched to scene 'Scene'
+12:57:30.785: ------------------------------------------------
+12:57:30.785: Loaded scenes:
+12:57:30.785: - scene 'Scene':
+12:57:30.786:     - source: 'Screen Capture (XSHM)' (xshm_input)
+12:57:30.786: ------------------------------------------------
+12:57:31.328: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+12:57:31.328: 
+13:16:48.933: ---------------------------------
+13:16:48.934: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:16:48.934: [x264 encoder: 'simple_video_recording'] profile: high
+13:16:48.934: [x264 encoder: 'simple_video_recording'] settings:
+13:16:48.934: 	rate_control: CRF
+13:16:48.934: 	bitrate:      0
+13:16:48.934: 	buffer size:  0
+13:16:48.934: 	crf:          18
+13:16:48.934: 	fps_num:      30
+13:16:48.934: 	fps_den:      1
+13:16:48.934: 	width:        852
+13:16:48.934: 	height:       480
+13:16:48.934: 	keyint:       250
+13:16:48.934: 
+13:16:48.943: ---------------------------------
+13:16:48.944: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: 3
+13:16:48.944: 
+13:16:48.946: ==== Recording Start ===============================================
+13:16:48.946: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/orgit/2023-05-28 13-16-48.mkv'...
+13:16:48.956: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:17:18.947: Failed to create xdg-screensaver: 2
+13:17:46.387: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/orgit/2023-05-28 13-16-48.mkv' stopped
+13:17:46.387: Output 'simple_file_output': stopping
+13:17:46.387: Output 'simple_file_output': Total frames output: 1702
+13:17:46.387: Output 'simple_file_output': Total drawn frames: 1723
+13:17:46.388: ==== Recording Stop ================================================
+13:18:03.621: ---------------------------------
+13:18:03.621: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:18:03.621: [x264 encoder: 'simple_video_recording'] profile: high
+13:18:03.622: [x264 encoder: 'simple_video_recording'] settings:
+13:18:03.622: 	rate_control: CRF
+13:18:03.622: 	bitrate:      0
+13:18:03.622: 	buffer size:  0
+13:18:03.622: 	crf:          18
+13:18:03.622: 	fps_num:      30
+13:18:03.622: 	fps_den:      1
+13:18:03.622: 	width:        852
+13:18:03.622: 	height:       480
+13:18:03.622: 	keyint:       250
+13:18:03.622: 
+13:18:03.629: ---------------------------------
+13:18:03.629: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: 3
+13:18:03.629: 
+13:18:03.633: ==== Recording Start ===============================================
+13:18:03.633: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/orgit/2023-05-28 13-18-03.mkv'...
+13:18:03.643: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:18:09.951: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/orgit/2023-05-28 13-18-03.mkv' stopped
+13:18:09.951: Output 'simple_file_output': stopping
+13:18:09.951: Output 'simple_file_output': Total frames output: 169
+13:18:09.951: Output 'simple_file_output': Total drawn frames: 190
+13:18:09.952: ==== Recording Stop ================================================
+13:18:11.549: ---------------------------------
+13:18:11.549: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:18:11.549: [x264 encoder: 'simple_video_recording'] profile: high
+13:18:11.549: [x264 encoder: 'simple_video_recording'] settings:
+13:18:11.549: 	rate_control: CRF
+13:18:11.549: 	bitrate:      0
+13:18:11.549: 	buffer size:  0
+13:18:11.549: 	crf:          18
+13:18:11.549: 	fps_num:      30
+13:18:11.549: 	fps_den:      1
+13:18:11.549: 	width:        852
+13:18:11.549: 	height:       480
+13:18:11.549: 	keyint:       250
+13:18:11.549: 
+13:18:11.557: ---------------------------------
+13:18:11.557: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: 3
+13:18:11.557: 
+13:18:11.560: ==== Recording Start ===============================================
+13:18:11.560: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/orgit/2023-05-28 13-18-11.mkv'...
+13:18:11.566: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:18:41.560: Failed to create xdg-screensaver: 2
+13:19:11.561: Failed to create xdg-screensaver: 2
+13:19:17.685: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/orgit/2023-05-28 13-18-11.mkv' stopped
+13:19:17.685: Output 'simple_file_output': stopping
+13:19:17.685: Output 'simple_file_output': Total frames output: 1963
+13:19:17.685: Output 'simple_file_output': Total drawn frames: 1984
+13:19:17.685: ==== Recording Stop ================================================
+13:26:35.466: ---------------------------------
+13:26:35.466: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:26:35.466: [x264 encoder: 'simple_video_recording'] profile: high
+13:26:35.467: [x264 encoder: 'simple_video_recording'] settings:
+13:26:35.467: 	rate_control: CRF
+13:26:35.467: 	bitrate:      0
+13:26:35.467: 	buffer size:  0
+13:26:35.467: 	crf:          18
+13:26:35.467: 	fps_num:      30
+13:26:35.467: 	fps_den:      1
+13:26:35.467: 	width:        852
+13:26:35.467: 	height:       480
+13:26:35.467: 	keyint:       250
+13:26:35.467: 
+13:26:35.473: ---------------------------------
+13:26:35.473: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: 3
+13:26:35.473: 
+13:26:35.476: ==== Recording Start ===============================================
+13:26:35.476: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/orgit/2023-05-28 13-26-35.mkv'...
+13:26:35.487: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:27:05.477: Failed to create xdg-screensaver: 2
+13:27:30.320: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/orgit/2023-05-28 13-26-35.mkv' stopped
+13:27:30.320: Output 'simple_file_output': stopping
+13:27:30.320: Output 'simple_file_output': Total frames output: 1624
+13:27:30.320: Output 'simple_file_output': Total drawn frames: 1645
+13:27:30.320: ==== Recording Stop ================================================
+13:30:21.140: ---------------------------------
+13:30:21.140: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:30:21.140: [x264 encoder: 'simple_video_recording'] profile: high
+13:30:21.140: [x264 encoder: 'simple_video_recording'] settings:
+13:30:21.140: 	rate_control: CRF
+13:30:21.140: 	bitrate:      0
+13:30:21.140: 	buffer size:  0
+13:30:21.140: 	crf:          18
+13:30:21.140: 	fps_num:      30
+13:30:21.140: 	fps_den:      1
+13:30:21.140: 	width:        852
+13:30:21.140: 	height:       480
+13:30:21.140: 	keyint:       250
+13:30:21.140: 
+13:30:21.148: ---------------------------------
+13:30:21.149: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: 3
+13:30:21.149: 
+13:30:21.154: ==== Recording Start ===============================================
+13:30:21.154: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/orgit/2023-05-28 13-30-21.mkv'...
+13:30:21.159: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:30:51.154: Failed to create xdg-screensaver: 2
+13:31:16.283: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/orgit/2023-05-28 13-30-21.mkv' stopped
+13:31:16.283: Output 'simple_file_output': stopping
+13:31:16.283: Output 'simple_file_output': Total frames output: 1633
+13:31:16.283: Output 'simple_file_output': Total drawn frames: 1654
+13:31:16.284: ==== Recording Stop ================================================
+13:41:01.200: Number of remaining views: 1
+13:41:01.201: ---------------------------------
+13:41:01.201: video settings reset:
+13:41:01.201: 	base resolution:   1600x900
+13:41:01.201: 	output resolution: 1600x900
+13:41:01.201: 	downscale filter:  Bicubic
+13:41:01.201: 	fps:               30/1
+13:41:01.201: 	format:            NV12
+13:41:01.201: 	YUV mode:          Rec. 709/Partial
+13:41:01.201: NV12 texture support not available
+13:41:01.201: P010 texture support not available
+13:41:01.223: Settings changed (video)
+13:41:01.223: ------------------------------------------------
+13:41:20.238: ---------------------------------
+13:41:20.239: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:41:20.239: [x264 encoder: 'simple_video_recording'] profile: high
+13:41:20.239: [x264 encoder: 'simple_video_recording'] settings:
+13:41:20.239: 	rate_control: CRF
+13:41:20.239: 	bitrate:      0
+13:41:20.239: 	buffer size:  0
+13:41:20.239: 	crf:          23
+13:41:20.239: 	fps_num:      30
+13:41:20.239: 	fps_den:      1
+13:41:20.239: 	width:        1600
+13:41:20.239: 	height:       900
+13:41:20.239: 	keyint:       250
+13:41:20.239: 
+13:41:20.256: ---------------------------------
+13:41:20.256: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: 3
+13:41:20.256: 
+13:41:20.259: ==== Recording Start ===============================================
+13:41:20.260: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/orgit/2023-05-28 13-41-20.mkv'...
+13:41:20.265: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:41:35.841: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/orgit/2023-05-28 13-41-20.mkv' stopped
+13:41:35.841: Output 'simple_file_output': stopping
+13:41:35.841: Output 'simple_file_output': Total frames output: 446
+13:41:35.841: Output 'simple_file_output': Total drawn frames: 467
+13:41:35.841: ==== Recording Stop ================================================
+13:42:09.936: ---------------------------------
+13:42:09.936: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:42:09.936: [x264 encoder: 'simple_video_recording'] profile: high
+13:42:09.936: [x264 encoder: 'simple_video_recording'] settings:
+13:42:09.936: 	rate_control: CRF
+13:42:09.936: 	bitrate:      0
+13:42:09.936: 	buffer size:  0
+13:42:09.936: 	crf:          23
+13:42:09.936: 	fps_num:      30
+13:42:09.936: 	fps_den:      1
+13:42:09.936: 	width:        1600
+13:42:09.936: 	height:       900
+13:42:09.936: 	keyint:       250
+13:42:09.936: 
+13:42:09.949: ---------------------------------
+13:42:09.949: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: 3
+13:42:09.949: 
+13:42:09.952: ==== Recording Start ===============================================
+13:42:09.952: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/orgit/2023-05-28 13-42-09.mkv'...
+13:42:09.961: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:42:39.952: Failed to create xdg-screensaver: 2
+13:43:06.225: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/orgit/2023-05-28 13-42-09.mkv' stopped
+13:43:06.225: Output 'simple_file_output': stopping
+13:43:06.226: Output 'simple_file_output': Total frames output: 1667
+13:43:06.226: Output 'simple_file_output': Total drawn frames: 1689
+13:43:06.226: ==== Recording Stop ================================================

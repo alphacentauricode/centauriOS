@@ -1,0 +1,28 @@
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...im/lazy/mason.nvim/lua/mason-registry/sources/github.lua:181: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"lua-language-server\"".
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR Sat 27 May 2023 09:26:42 PM CEST] ...im/lazy/mason.nvim/lua/mason-registry/sources/github.lua:181: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR Sat 27 May 2023 09:37:19 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:37:19 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:37:19 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR Sat 27 May 2023 09:37:19 PM CEST] ...im/lazy/mason.nvim/lua/mason-registry/sources/github.lua:181: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR Sat 27 May 2023 09:37:19 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"lua-language-server\"".
+[ERROR Sat 27 May 2023 09:37:19 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[ERROR Sat 27 May 2023 09:37:23 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"css-lsp\"".
+[ERROR Sat 27 May 2023 09:37:24 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"html-lsp\"".
+[ERROR Sat 27 May 2023 09:37:24 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"typescript-language-server\"".
+[ERROR Sat 27 May 2023 09:37:24 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"deno\"".
+[ERROR Sat 27 May 2023 09:37:24 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"prettier\"".
+[ERROR Sat 27 May 2023 09:37:24 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"clangd\"".
+[ERROR Sat 27 May 2023 09:37:25 PM CEST] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"clang-format\"".
+[ERROR Sat 27 May 2023 09:37:25 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:37:25 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. wget is not executable
+[ERROR Sat 27 May 2023 09:37:25 PM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR Sat 27 May 2023 09:37:25 PM CEST] ...im/lazy/mason.nvim/lua/mason-registry/sources/github.lua:181: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[INFO  Sun 28 May 2023 10:55:44 AM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR Sun 28 May 2023 10:55:44 AM CEST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="Installation was aborted."

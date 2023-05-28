@@ -1,0 +1,33 @@
+[START][2023-05-28 11:16:23] LSP logging initiated
+[WARN][2023-05-28 11:16:23] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:16:23] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-05-28 11:17:19] LSP logging initiated
+[WARN][2023-05-28 11:17:19] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:17:19] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-05-28 11:24:35] LSP logging initiated
+[WARN][2023-05-28 11:24:35] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:24:35] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-05-28 11:40:38] LSP logging initiated
+[WARN][2023-05-28 11:40:38] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:40:38] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-05-28 11:41:07] LSP logging initiated
+[WARN][2023-05-28 11:41:07] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:41:07] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:42:36] .../lua/vim/lsp.lua:1637	"buf_attach_client called on unloaded buffer (id: 4): "
+[WARN][2023-05-28 11:42:36] .../lua/vim/lsp.lua:1637	"buf_attach_client called on unloaded buffer (id: 4): "
+[START][2023-05-28 11:43:10] LSP logging initiated
+[WARN][2023-05-28 11:43:10] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:43:10] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-05-28 11:55:14] LSP logging initiated
+[WARN][2023-05-28 11:55:14] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2023-05-28 11:55:14] ...lsp/handlers.lua:137	"The language server emmet_ls triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-05-28 12:45:53] LSP logging initiated
+[WARN][2023-05-28 12:45:53] ...lsp/handlers.lua:537	"10:45:53.392 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2023-05-28 13:19:02] LSP logging initiated
+[WARN][2023-05-28 13:19:02] ...lsp/handlers.lua:537	"11:19:02.242 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2023-05-28 15:20:28] LSP logging initiated
+[WARN][2023-05-28 15:20:28] ...lsp/handlers.lua:537	"13:20:28.606 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2023-05-28 15:20:53] LSP logging initiated
+[WARN][2023-05-28 15:20:53] ...lsp/handlers.lua:537	"13:20:53.029 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2023-05-28 15:21:18] LSP logging initiated
+[WARN][2023-05-28 15:21:18] ...lsp/handlers.lua:537	"13:21:18.553 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"

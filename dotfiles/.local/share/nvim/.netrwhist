@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/orgit/.mozilla/firefox/le3ytxc0.default-default/chrome/includes'

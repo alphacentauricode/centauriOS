@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Factorio
+Exec="/home/orgit/.factorio/Factorio/run.sh"
+Icon=/home/orgit/.factorio/Factorio/data/core/graphics/factorio.png
+Type=Application
+Categories=Game;
+StartupNotify=true
+Comment=Start Factorio
+Comment[ru_RU]=Запустить Factorio
